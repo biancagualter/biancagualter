@@ -1,5 +1,6 @@
 <p align="center">
-![banner](https://user-images.githubusercontent.com/73099763/111884344-eafa2700-899f-11eb-8e16-8fab3fb64ff6.png)
+<img src="https://user-images.githubusercontent.com/73099763/111884344-eafa2700-899f-11eb-8e16-8fab3fb64ff6.png" 
+  alt="Bianca Gualter - Web Developer" />
 </p>
 
 <p align="center">
